@@ -1,4 +1,5 @@
-import React, { createContext, useState, useContext, ReactNode } from "react";
+/* eslint-disable react-refresh/only-export-components */
+import { createContext, useState, useContext, ReactNode } from "react";
 
 // Define types for the plant and context
 interface Plant {
